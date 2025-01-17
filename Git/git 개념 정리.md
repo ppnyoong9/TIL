@@ -1,3 +1,4 @@
+## 목차
 
 [GIT](#GIT)
 
@@ -9,7 +10,8 @@
 
 [gitignore](#gitignore)
 
-
+</br>
+--- 
 
 ### GIT
 
@@ -27,6 +29,7 @@ hash = commit 의 고유 값
     
     이전 버전과의 변경 사항 비교
     
+</br>
 
 ### 영역
 
@@ -50,6 +53,7 @@ hash = commit 의 고유 값
 
 ![영역설명](https://github.com/user-attachments/assets/8ea1d105-4557-46a4-b0a0-e4e66dffdc7f)
 
+</br>
 
 ### 동작
 
@@ -101,7 +105,7 @@ hash = commit 의 고유 값
 
     commit 메시지 올리고 commit
 
-
+</br>
     
 ### 로컬(local)
 
@@ -109,7 +113,7 @@ hash = commit 의 고유 값
 
 개인 컴퓨터, 노트북, 태블릿 등 사용자가 직접 조작하는 환경  
 
-
+</br>
     
 ### 원격 저장소
 
@@ -121,15 +125,15 @@ hash = commit 의 고유 값
   
     1. `git remote add origin remote_repo_url`
     
-    origin 자리는 추가하는 원격 저장소 별칭
+        origin 자리는 추가하는 원격 저장소 별칭
     
-    별칭을 사용해 로컬 저장소 한 개에 여러 원격 저장소를 추가할 수 있음 
+        별칭을 사용해 로컬 저장소 한 개에 여러 원격 저장소를 추가할 수 있음 
     
-    `git remote -v`  로 원격저장소 url 잘 들어갔는지 확인 가능
+        `git remote -v`  로 원격저장소 url 잘 들어갔는지 확인 가능
     
     2. `git push origin master` 원격 저장소에 commit 업로드
        
-    *git 아 push 해줘 origin 이라는 이름의 원격 저장소에 master 라는 이름의 브랜치를*
+        *git 아 push 해줘 origin 이라는 이름의 원격 저장소에 master 라는 이름의 브랜치를*
 
 - 원격 저장소의 변경 사항 받아오기
     
@@ -142,7 +146,7 @@ hash = commit 의 고유 값
 
 예를 들어보자면 clone 은 새롭게 앱을 다운 받는 느낌이고, pull 은 이미 받아져 있는 앱을 업데이트 하는 느낌이다
 
-
+</br>
     
 ### gitignore
 
