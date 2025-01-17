@@ -10,8 +10,7 @@
 
 [gitignore](#gitignore)
 
-</br>
---- 
+---
 
 ### GIT
 
