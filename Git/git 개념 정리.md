@@ -48,7 +48,7 @@ hash = commit 의 고유 값
 
 올리고 싶은 파일들만 올리고 싶을 때(난 멤버 기능만 구현했고 다른 건 개발중인데… → 멤버 기능만 모아서 멤버.ver로 올려야겠다! → 멤버 기능들만 모아 staging area 로 snapshoot 찍기 ( ✌️ 찰칵 )
 
-![영역 설명](https://prod-files-secure.s3.us-west-2.amazonaws.com/5fa21725-9413-499f-878a-83fe8354406a/b8eeebb0-2099-4c48-997a-a24136cbfb63/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-16_151348.png)
+![영역설명](https://github.com/user-attachments/assets/8ea1d105-4557-46a4-b0a0-e4e66dffdc7f)
 
 
 ### 동작
