@@ -122,7 +122,7 @@ hash = commit 의 고유 값
 
 - 로컬 저장소에 원격 저장소 추가
   
-    1. `git remote add origin remote_repo_url`
+    - `git remote add origin remote_repo_url`
     
         origin 자리는 추가하는 원격 저장소 별칭
     
@@ -130,7 +130,7 @@ hash = commit 의 고유 값
     
         `git remote -v`  로 원격저장소 url 잘 들어갔는지 확인 가능
     
-    2. `git push origin master` 원격 저장소에 commit 업로드
+    - `git push origin master` 원격 저장소에 commit 업로드
        
         *git 아 push 해줘 origin 이라는 이름의 원격 저장소에 master 라는 이름의 브랜치를*
 
